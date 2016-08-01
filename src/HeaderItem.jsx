@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 
 var headerboxStyle = {
-  backgroundColor:'#4d2600',
   marginBottom: '100px',
 }
 
@@ -11,7 +10,7 @@ var header = {
 }
 
 var headerIMG = {
-  height: '600px',
+  height: '750px',
   width: '33%',
 }
 

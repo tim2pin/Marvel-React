@@ -2,7 +2,6 @@ import React,{Component} from 'react';
 
 var welcomePage = {
   background: 'url(http://3.bp.blogspot.com/-nfxRQiJodr8/VRmDKSHyPhI/AAAAAAAASx4/mqP1OrRRr-Q/s1600/4-squirrel_girl.jpg)',
-  // backgroundPosition: 'absolute',
   backgroundRepeat: 'no-repeat',
   fontSize: '80px',
   height: '800px',

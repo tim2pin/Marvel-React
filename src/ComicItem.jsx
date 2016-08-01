@@ -9,14 +9,14 @@ var comicBoxStyle = {
 }
 
 var imgStyle = {
-  display: 'inline-block',
-  maxHeight: '600px',
-  width: '100%'
+  display: 'block',
+  height: '550px',
+  width: '100%',
 
 }
 
 var comicTitle = {
-  display: 'block',
+  display: 'inline-block',
   fontSize: '30px',
   }
 
